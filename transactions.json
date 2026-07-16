@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "type": "income",
+        "category": "salary",
+        "amount": 15000.0,
+        "note": "",
+        "date": "2026-07-16"
+    },
+    {
+        "id": 2,
+        "type": "expense",
+        "category": "food",
+        "amount": 2000.0,
+        "note": "",
+        "date": "2026-07-16"
+    },
+    {
+        "id": 3,
+        "type": "income",
+        "category": "gift",
+        "amount": 10000.0,
+        "note": "",
+        "date": "2026-07-16"
+    },
+    {
+        "id": 4,
+        "type": "expense",
+        "category": "food",
+        "amount": 2000.0,
+        "note": "",
+        "date": "2026-07-16"
+    }
+]
